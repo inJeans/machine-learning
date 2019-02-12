@@ -31,15 +31,29 @@ What should learners be able to do, at the end of this unit? Please describe thi
 
 Your task(s) should be achievable in the practical time allotted. Individual tasks should take 1/2 to 2 days. 
 
-**Task:**  
+**Task:** Process a dataset with "issues"
 
-**Task:**
+**Task:** Identify existence of issues
+
+**Task:** Fix/overcome those issues
 
 ### Data
 
 What kind of data do learners need to bring to the workshop, to complete this task? What features should the data have? (shape, size, complexity, licence etc).
 
 Can you design this exercise on a predesigned data set if necessary? If so, what should this dataset look like, and where can we find it from? Do we need different data for different learners?
+
+Ideally the data will contain a range of "issues" that can be used to illuminate particular ML concepts. Dataset issues might include:
+
+- imbalanced
+- biased
+- noisy
+- incomplete
+- wide and shallow
+- data formatting
+- multiple files
+- redundant features
+- feature extraction?
 
 ## 2. Concept map
 
